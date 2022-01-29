@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) GIT Eğitimi ödevi kapsamınd
 - index.html
 - README.md
 
-[](https://i.ibb.co/9Y8c0Bf/rpo.jpg)
+![](https://i.ibb.co/9Y8c0Bf/rpo.jpg)
 
 ## Installation
 Öncelikle projeyi clonelayın.
